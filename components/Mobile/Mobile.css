@@ -1,0 +1,8 @@
+.mobile {
+  align-items: flex-start;
+  display: flex;
+  height: 736px;
+  min-width: 414px;
+  overflow-x: hidden;
+}
+

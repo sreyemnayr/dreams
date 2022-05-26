@@ -1,0 +1,43 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,700;0,800;1,800&family=Barlow:ital,wght@0,100;0,400;0,500;0,800;1,400;1,700&family=El+Messiri:wght@400;700&display=swap');
+
+
+
+@font-face {
+  font-family: "Barlow Semi Condensed-SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("static/fonts/BarlowSemiCondensed-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Barlow Semi Condensed-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("static/fonts/BarlowSemiCondensed-Medium.ttf") format("truetype");
+}
+
+body {
+  background-color: #141619;
+}
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

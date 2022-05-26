@@ -1,0 +1,8 @@
+.desktop {
+  align-items: flex-start;
+  display: flex;
+  height: 982px;
+  max-width: 100vw;
+  overflow: auto;
+}
+

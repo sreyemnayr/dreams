@@ -1,0 +1,31 @@
+:root { 
+  --black: #000000;
+  --black-2: #00000040;
+  --blackcomponent-bg: #00000080;
+  --bunker: #141416bf;
+  --dkblue--100: #141416;
+  --dkblue80: #14212f;
+  --firefly: #14212f8c;
+  --firefly-2: #14212f0d;
+  --ltblue--100: #ecf0f4;
+  --medgray--100: #343a40;
+  --mist-gray: #c4c4c4;
+  --stroke: #343a4066;
+  --tuna: #343840;
+  --vulcan: #141619;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 24px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 13.5px;
+  --font-size-xxxs: 12px;
+ 
+  --font-family-barlow: "Barlow", Helvetica;
+  --font-family-barlow_semi_condensed: "Barlow Semi Condensed", Helvetica;
+  --font-family-barlow_semi_condensed-extrabold: "Barlow Semi Condensed-ExtraBold", Helvetica;
+  --font-family-barlow_semi_condensed-medium: "Barlow Semi Condensed-Medium", Helvetica;
+  --font-family-barlow_semi_condensed-semibold: "Barlow Semi Condensed-SemiBold", Helvetica;
+}

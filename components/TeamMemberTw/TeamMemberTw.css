@@ -1,0 +1,12 @@
+.teammembertw {
+  align-items: center;
+  background-color: var(--firefly);
+  display: flex;
+  flex-direction: column;
+  min-height: 515px;
+  mix-blend-mode: color-burn;
+  padding: 36px 0;
+  position: relative;
+  width: 245px;
+}
+

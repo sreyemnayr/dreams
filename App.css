@@ -1,0 +1,29 @@
+.x01-home-desktop {
+  display: flex;
+  height: 100vh;
+  min-height: 6996px;
+  min-width: 1200px;
+  position: relative;
+  width: 100%;
+}
+
+.roadmap100 {
+  filter: brightness(1.5) contrast(0.5)
+}
+
+.roadmap75 {
+  filter: brightness(1.4) contrast(0.6)
+}
+
+.roadmap50 {
+  filter: brightness(1.2) contrast(0.7)
+}
+
+.roadmap25 {
+  filter: brightness(1.1) contrast(0.8)
+}
+
+.roadmap10 {
+  filter: brightness(1.0) contrast(1.0)
+}
+
